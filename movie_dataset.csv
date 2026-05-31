@@ -1,0 +1,51 @@
+Title,Genre,Year,Rating,Runtime,Director,Revenue_Million,Votes_Million,Language
+Interstellar,Sci-Fi,2014,8.7,169,Christopher Nolan,701.0,2.1,English
+Inception,Sci-Fi,2010,8.8,148,Christopher Nolan,836.0,2.4,English
+The Dark Knight,Action,2008,9.0,152,Christopher Nolan,1005.0,2.7,English
+3 Idiots,Comedy,2009,8.4,170,Rajkumar Hirani,60.0,0.4,Hindi
+Dangal,Action,2016,8.3,161,Nitesh Tiwari,311.0,0.2,Hindi
+Baahubali: The Beginning,Mythology,2015,8.0,159,S.S. Rajamouli,100.0,0.1,Telugu
+Baahubali 2: The Conclusion,Mythology,2017,8.2,167,S.S. Rajamouli,250.0,0.15,Telugu
+RRR,Action,2022,7.8,187,S.S. Rajamouli,160.0,0.12,Telugu
+Parasite,Thriller,2019,8.5,132,Bong Joon-ho,263.0,0.9,Korean
+The Conjuring,Horror,2013,7.5,112,James Wan,319.0,0.5,English
+Kantara,Mythology,2022,8.2,148,Rishab Shetty,50.0,0.09,Kannada
+Drishyam,Crime,2013,8.3,160,Jeethu Joseph,8.0,0.05,Malayalam
+Drishyam 2,Crime,2021,8.4,152,Jeethu Joseph,12.0,0.04,Malayalam
+Lagaan,Drama,2001,8.1,224,Ashutosh Gowariker,25.0,0.1,Hindi
+Andhadhun,Thriller,2018,8.2,139,Sriram Raghavan,64.0,0.1,Hindi
+The Godfather,Crime,1972,9.2,175,Francis Ford Coppola,246.0,1.9,English
+Pulp Fiction,Crime,1994,8.9,154,Quentin Tarantino,213.0,2.1,English
+Django Unchained,Drama,2012,8.4,165,Quentin Tarantino,425.0,1.6,English
+Avatar,Sci-Fi,2009,7.9,162,James Cameron,2923.0,1.3,English
+Titanic,Drama,1997,7.9,194,James Cameron,2264.0,1.2,English
+Tumbbad,Horror,2018,8.2,104,Rahi Anil Barve,2.0,0.05,Hindi
+Gully Boy,Drama,2019,7.9,153,Zoya Akhtar,37.0,0.04,Hindi
+Vikram,Action,2022,8.3,175,Lokesh Kanagaraj,60.0,0.08,Tamil
+Kaithi,Action,2019,8.4,145,Lokesh Kanagaraj,15.0,0.04,Tamil
+K.G.F: Chapter 1,Action,2018,8.2,156,Prashanth Neel,35.0,0.09,Kannada
+K.G.F: Chapter 2,Action,2022,8.3,168,Prashanth Neel,150.0,0.18,Kannada
+Super Deluxe,Crime,2019,8.2,176,Thiagarajan Kumararaja,2.0,0.02,Tamil
+The Shawshank Redemption,Drama,1994,9.3,142,Frank Darabont,28.0,2.8,English
+The Matrix,Sci-Fi,1999,8.7,136,Lana Wachowski,467.0,2.0,English
+Joker,Crime,2019,8.4,122,Todd Phillips,1074.0,1.4,English
+Shutter Island,Thriller,2010,8.2,138,Martin Scorsese,294.0,1.4,English
+The Wolf of Wall Street,Comedy,2013,8.2,180,Martin Scorsese,392.0,1.5,English
+Goodfellas,Crime,1990,8.7,145,Martin Scorsese,47.0,1.2,English
+Pushpa: The Rise,Action,2021,7.6,179,Sukumar,50.0,0.07,Telugu
+Rangasthalam,Drama,2018,8.2,170,Sukumar,30.0,0.03,Telugu
+Hera Pheri,Comedy,2000,8.1,156,Priyadarshan,5.0,0.05,Hindi
+Bhool Bhulaiyaa,Horror,2007,7.4,159,Priyadarshan,10.0,0.04,Hindi
+Zindagi Na Milegi Dobara,Drama,2011,8.2,155,Zoya Akhtar,22.0,0.08,Hindi
+Dil Chahta Hai,Drama,2001,8.1,183,Farhan Akhtar,4.0,0.06,Hindi
+Lucifer,Action,2019,7.5,175,Prithviraj Sukumaran,30.0,0.03,Malayalam
+Mantra,Horror,2007,6.8,115,,2.0,0.01,Telugu
+Stree,Horror,2018,7.5,128,Amar Kaushik,25.0,0.04,Hindi
+Avengers: Endgame,Sci-Fi,2019,8.4,181,Anthony Russo,2797.0,1.2,English
+Black Panther,Action,2018,7.3,134,Ryan Coogler,1347.0,0.8,English
+Jai Bhim,Drama,2021,8.8,164,T. J. Gnanavel,,0.1,Tamil
+96,Drama,2018,8.5,158,C. Prem Kumar,8.0,0.03,Tamil
+The Prestige,Thriller,2006,8.5,130,Christopher Nolan,109.0,1.3,English
+Mad Max: Fury Road,Action,2015,8.1,120,George Miller,375.0,1.0,English
+Seven,Crime,1995,8.6,127,David Fincher,327.0,1.7,English
+Fight Club,Drama,1999,8.8,139,,101.0,2.2,English
